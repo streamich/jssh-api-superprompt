@@ -10,6 +10,10 @@ Everything written below is valid *CoffeeScript* which transpiles to valid *Java
 
 ```coffeescript
 # `$` stands for '$uper prompt'.
+
+# Connect to more hosts, for example:
+ssh '...'
+
 # List available hosts.
 $
 
